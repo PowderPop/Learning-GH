@@ -9,6 +9,6 @@ import Foundation
 
 struct MyModel {
     
-    var someVar: String?
+    var someVar = "Eoin"
     
 }
